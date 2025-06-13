@@ -1,0 +1,40 @@
+body
+{
+    background-color: gray;
+}
+#ct1
+{
+    font-size: 30px;
+}
+.contenedor1
+{
+    display: grid;
+    place-items: center;
+}
+.contenedor2
+{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; /* sombra numero 3 */
+}
+.image
+{
+    width: 80%;
+    height: 80%;
+}
+h1
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
